@@ -1,1 +1,2 @@
-Gabi's Interactive Valentines Day Card
+For Gabi <3
+There's not a second that goes by that I don't think im the lucky to have know you.
