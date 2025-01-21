@@ -2,8 +2,8 @@ const alternatives = [
   {text:"", images:"images/cat-01.gif"},
   {text:"Te prometo que será inolvidable", images:"images/cat-03.gif"},
   {text:"Piénsalo de nuevo", images:"images/Kuki 1.jpg"},
-  {text:"Vamos, atrévete a un sí", images:"images/Kuki 2"},
-  {text:"Que el miedo no te detenga", images:"images/Kuki 3"},
+  {text:"Vamos, atrévete a un sí", images:"images/Kuki 2.jpg"},
+  {text:"Que el miedo no te detenga", images:"images/Kuki 3.jpg"},
 ]
 const ohyes = {text:"Sabía que aceptarias. I'll love you until we're old and grey.", images:"images/cat-yes.gif"}
 const cat = document.querySelector('.cat')
