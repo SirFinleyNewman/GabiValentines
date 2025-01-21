@@ -7,6 +7,7 @@ const alternatives = [
 ]
 const ohyes = {text:"Sabía que aceptarias", images:"images/cat-yes.gif"}
 const cat = document.querySelector('.cat')
+const kuki = document.querySelector('.cat')
 const text = document.querySelector('.text')
 const buttons = document.querySelectorAll('.button')
 const errorButton = document.querySelector('.button__error')
