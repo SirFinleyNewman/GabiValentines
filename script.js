@@ -5,7 +5,7 @@ const alternatives = [
   {text:"Vamos, atrévete a un sí", images:"images/Kuki 2"},
   {text:"Que el miedo no te detenga", images:"images/Kuki 3"},
 ]
-const ohyes = {text:"Sabía que aceptarias", images:"images/cat-yes.gif"}
+const ohyes = {text:"Sabía que aceptarias. I'll love you until we're old and grey.", images:"images/cat-yes.gif"}
 const cat = document.querySelector('.cat')
 const kuki = document.querySelector('.cat')
 const text = document.querySelector('.text')
