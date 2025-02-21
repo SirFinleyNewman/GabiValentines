@@ -3,6 +3,8 @@ const alternatives = [
   {text:"There is no what if, I know you'll be able to", images:"images/Encouragement.gif"},
   {text:"Yeah, but...", images:"images/Believe in You.gif"},
   {text:"You won't have to do this alone, you know", images:"images/Im rooting for you.gif"},
+  {text:"Everyone will always be here supporting you, no matter what!", images:"images/Believe in You.gif"},
+  {text:"We wont forget you, how lucky are all of us?", images:"images/Goodbye"},
   {text:"Don't turn back now Gabi, I know you can do this", images:"images/Im so proud.gif"},
 ]
 const ohyes = {text:"Don't worry about me Gabi. I'll be okay, you're my friend till the end. I'll be here rooting for you wherever and whenever", images:"images/Friends Forever.jpg"}
