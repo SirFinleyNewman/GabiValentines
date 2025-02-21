@@ -1,5 +1,5 @@
 const alternatives = [
-  {text:"", images:"images/cat-01.gif"},
+  {text:"", images:"images/Excited Happy.gif"},
   {text:"There is no what if, I know you'll be able to", images:"images/Encouragement.gif"},
   {text:"Yeah, but...", images:"images/Believe in You.gif"},
   {text:"You won't have to do this alone, you know", images:"images/Im rooting for you.gif"},
