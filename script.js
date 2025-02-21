@@ -1,7 +1,7 @@
 const alternatives = [
   {text:"Why are you back here Gabi!!! Ad Astra Per Aspera!", images:"images/Excited Happy.gif"},
+  {text:"It's good that youre nervous! Moving across the nation is no joke.", images:"images/Believe in You.gif"},
   {text:"There is no what if, I know you'll be able to", images:"images/Encouragement.gif"},
-  {text:"Yeah, but...", images:"images/Believe in You.gif"},
   {text:"You won't have to do this alone, you know", images:"images/Im rooting for you.gif"},
   {text:"Everyone will always be here supporting you, no matter what!", images:"images/Believe in You.gif"},
   {text:"We wont forget you, how lucky are all of us?", images:"images/Goodbye"},
