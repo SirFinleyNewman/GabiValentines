@@ -1,11 +1,11 @@
 const alternatives = [
   {text:"", images:"images/cat-01.gif"},
-  {text:"Te prometo que será inolvidable", images:"images/cat-03.gif"},
-  {text:"Piénsalo de nuevo", images:"images/Kuki 1.jpg"},
-  {text:"Vamos, atrévete a un sí", images:"images/Kuki 2.jpg"},
-  {text:"Que el miedo no te detenga", images:"images/Kuki 3.jpg"},
+  {text:"There is no what if, I know you'll be able to", images:"images/Encouragement.gif"},
+  {text:"Yeah, but...", images:"images/Believe in You.gif"},
+  {text:"You won't have to do this alone, you know", images:"images/Im rooting for you.gif"},
+  {text:"Don't turn back now Gabi, I know you can do this", images:"images/Im so proud.gif"},
 ]
-const ohyes = {text:"Sabía que aceptarias. I'll always love you until we're old and grey.", images:"images/cat-yes.gif"}
+const ohyes = {text:"Don't worry about me Gabi. I'll be okay, you're my friend till the end. I'll be here rooting for you wherever and whenever", images:"images/Friends Forever.jpg"}
 const cat = document.querySelector('.cat')
 const kuki = document.querySelector('.cat')
 const text = document.querySelector('.text')
