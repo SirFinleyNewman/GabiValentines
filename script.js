@@ -6,7 +6,7 @@ const alternatives = [
   {text:"We wont forget you, how lucky are all of us?", images:"images/Goodbye.jpeg"},
   {text:"Don't turn back now Gabi, I know you can do this", images:"images/Im so proud.gif"},
 ]
-const ohyes = {text:"Don't worry about me Gabi. I'll be okay, you're my friend htill the end. I'll be here rooting for you wherever and whenever", images:"images/Friends Forever.jpg"}
+const ohyes = {text:"Don't worry about me Gabi. I'll be okay, you're my friend till the end. I'll be here rooting for you wherever and whenever", images:"images/Friends Forever.jpg"}
 const cat = document.querySelector('.cat')
 const kuki = document.querySelector('.cat')
 const text = document.querySelector('.text')
