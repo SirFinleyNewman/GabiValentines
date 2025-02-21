@@ -30,7 +30,7 @@ errorButton.addEventListener('click', ()=>{
 
 buttons.forEach(button => {
   button.addEventListener('click', ()=>{
-      if(button.textContent == "❤️"){
+      if(button.textContent == "Why are you back here Gabi!!! Ad Astra Per Aspera!"){
           updateDisplay(ohyes)
           buttons.forEach(btn => btn.style.display = 'none')
       }
