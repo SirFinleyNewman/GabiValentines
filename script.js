@@ -6,9 +6,8 @@ const alternatives = [
   {text:"We wont forget you, how lucky are all of us?", images:"images/Goodbye.jpeg"},
   {text:"Don't turn back now Gabi, I know you can do this", images:"images/Im so proud.gif"},
 ]
-const ohyes = {text:"Don't worry about me Gabi. I'll be okay, you're my friend till the end. I'll be here rooting for you wherever and whenever", images:"images/Friends Forever.jpg"}
+const ohyes = {text:"Don't worry about me Gabi. I'll be here rooting for you wherever and whenever. I could never stop being so proud of you.", images:"images/Friends Forever.jpg"}
 const cat = document.querySelector('.cat')
-const kuki = document.querySelector('.cat')
 const text = document.querySelector('.text')
 const buttons = document.querySelectorAll('.button')
 const errorButton = document.querySelector('.button__error')
@@ -19,6 +18,8 @@ function updateDisplay(item){
   cat.src = item.images
   text.innerHTML = item.text
 }
+
+updateDisplay(alternatives[0])
 
 errorButton.addEventListener('click', ()=>{
   count = 0;
